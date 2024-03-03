@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+}
+
+.skills{
+    font-style: italic;
+}
+
+.skills li{
+    list-style: upper-latin;
+}
+
+.skills h3{
+    color: red;
+}
