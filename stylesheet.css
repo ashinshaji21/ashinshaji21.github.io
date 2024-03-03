@@ -9,23 +9,19 @@
     height: 100px;
 }
 
-.center-text {
+header h1.center-text {
     text-align: center;
 }
 
+header h1:hover,
+            section h2:hover {
+                color: blue; 
+            }
+
 .skills {
-    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
 }
 
-.skills ul li:hover p {
-    color: red;
-}
-
-.skills ul li {
-    list-style: upper-latin;
-    font-weight:600;
-}
-
-.skills ul li h3 {
-    font-weight: normal;
+.bold-text {
+    font-weight: bold;
 }
