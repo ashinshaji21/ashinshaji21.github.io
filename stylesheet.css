@@ -1,13 +1,10 @@
 .center-image {
     text-align: center;
-}
-
-.center-image img {
-    display: block;
     margin: 0 auto; 
     width: 100px;
     height: 100px;
 }
+
 
 header h1.center-text {
     text-align: center;
